@@ -29,4 +29,4 @@ https://github.com/github/gitignore/blob/master/Global/JetBrains.gitignore
 
 	
 # Burning Questions:
-* Debugging	
+* How to Debug a Spring Boot App (not straightforward) - https://stackoverflow.com/questions/36583947/how-to-debug-a-spring-boot-application-in-spring-tool-suite (First bulleted option in Right Answer)

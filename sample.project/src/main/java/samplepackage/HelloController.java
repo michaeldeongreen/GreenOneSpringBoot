@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class HelloController {
     @RequestMapping("/")
     public String index() {
+        String debug = "debug";
         return "Greetings from Spring Boot";
     }
 
