@@ -23,4 +23,10 @@ https://github.com/github/gitignore/blob/master/Global/JetBrains.gitignore
 * Put build.grade along side src folder
 * Had compile issues surrounding Packages: https://www.youtube.com/watch?v=EBWmlcMXxXc)
 * Had to modify build.grade (https://stackoverflow.com/questions/24924932/gradle-could-not-find-or-load-main-class)
-* 2 Terminals open
+* 2 Terminals open to execute commands in Spring Boot Tutorial:
+	* 1st to build and run the application
+	* 2nd to exucute curl command to test 
+
+	
+# Burning Questions:
+* Debugging	
