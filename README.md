@@ -14,6 +14,8 @@ Basic HelloWorld Spring Boot application that exposes a simple GET end point and
 * https://www.jetbrains.com/help/idea/getting-started-with-gradle.html (Used this create base project)
 * https://spring.io/guides/gs/spring-boot/#_what_you_ll_need (Used this for Spring Boot)
 * https://spring.io/guides/gs/spring-boot-docker/ (Used this to dockerize Spring Boot)
+* https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-docker-cli (Used this for ACR)
+* https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-deploy-app (Used this for ACI)
 
 
 # IntelliJ base .gitignore file:

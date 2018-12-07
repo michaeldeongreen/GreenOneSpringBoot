@@ -1,0 +1,3 @@
+ACR Name: mgreenazurecontinerregistry.azurecr.io/samples/springboot
+
+Local Name: springio/gs-spring-boot-docker
