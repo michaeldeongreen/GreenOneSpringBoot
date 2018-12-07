@@ -1,4 +1,4 @@
-# GreenOneSpringBoot
+# GreenOneSpringBoot (Note: To open in IntelliJ, open the sample.project folder)
 Basic HelloWorld Spring Boot application that exposes a simple GET end point and a entry point class for Spring Boot.
 
 
@@ -6,7 +6,7 @@ Basic HelloWorld Spring Boot application that exposes a simple GET end point and
 * Bash
 * Chocolatey - https://chocolatey.org/install
 * Gradle - https://gradle.org/install/#with-a-package-manager
-* Java SDK 11
+* Java SDK 11 (Don't forget to set your PATH: https://www.oracle.com/technetwork/java/javase/install-windows-139179.html )
 * Spring Boot
 
 
