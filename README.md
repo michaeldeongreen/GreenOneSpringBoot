@@ -29,7 +29,11 @@ https://github.com/github/gitignore/blob/master/Global/JetBrains.gitignore
 * 2 Terminals open to execute commands in Spring Boot Tutorial:
 	* 1st to build and run the application
 	* 2nd to exucute curl command to test 
-
+* For Maven
+	* Had issues with mvn -version, turned out to be a corrupt zip file
+	* Used Java JDK binaries instead of installer so there are no spaces in location (ie Program Files)
+	* Created M2_HOME, MAVEN_HOME and JAVA_HOME and pointed them to the root directions (not the bin)
+	* In PATH, %M2_HOME%\bin etc etc
 	
 # Burning Questions:
 * How to Debug a Spring Boot App (not straightforward) - https://stackoverflow.com/questions/36583947/how-to-debug-a-spring-boot-application-in-spring-tool-suite (First bulleted option in Right Answer)
